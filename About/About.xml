@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1.0] Movable Hydroponics</name>
+	<author>Red4StandingBy</author>
+	<targetVersion>1.0.2059</targetVersion>
+    <url></url>
+	<description>(This mod has no requirements)
+
+Makes hydroponics basins reinstallable/uninstallable.
+
+There is a slight graphic glitch if you reinstall while it is planted, 
+but it goes away after the first full grow cycle.
+
+This should be safe to install or remove on an existing save.</description>
+</ModMetaData>
